@@ -1,4 +1,4 @@
-## DSL_ModelingProject_RNN
+## ModelingProject_RNN
 ### Seq2Seq을 이용한 chatbot 모델링 프로젝트
 #### DSL RNN팀 박수빈 박세승 이승연 정승연
 ##### [FULL_PDF_RNN 발표자료입니다](https://github.com/xxbean/DSL_ModelingProject_RNN/files/8489768/RNN_.pdf)
